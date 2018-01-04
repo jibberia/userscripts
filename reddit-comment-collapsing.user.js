@@ -6,8 +6,8 @@
 // @author       jibberia
 // @match        http*://*.reddit.com/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/jibberia/userscripts/master/reddit-comment-collapsing.js
-// @downloadURL  https://raw.githubusercontent.com/jibberia/userscripts/master/reddit-comment-collapsing.js
+// @downloadURL  https://raw.githubusercontent.com/jibberia/userscripts/master/reddit-comment-collapsing.user.js
+// @updateURL    https://raw.githubusercontent.com/jibberia/userscripts/master/reddit-comment-collapsing.user.js
 // ==/UserScript==
 
 (function() {

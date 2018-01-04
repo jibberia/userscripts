@@ -6,8 +6,8 @@
 // @author       jibberia
 // @match        https://*.reddit.com/*comments*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/jibberia/userscripts/master/reddit-no-highlighting.js
-// @downloadURL  https://raw.githubusercontent.com/jibberia/userscripts/master/reddit-no-highlighting.js
+// @updateURL    https://raw.githubusercontent.com/jibberia/userscripts/master/reddit-no-highlighting.user.js
+// @downloadURL  https://raw.githubusercontent.com/jibberia/userscripts/master/reddit-no-highlighting.user.js
 // ==/UserScript==
 
 (function() {
